@@ -26,10 +26,9 @@ Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para t
 
 ## 📌 Projetos em destaque
 
+- 🔗 [SinalizaAI](https://sinalizaai.com) — Plataforma de tradução Libras ↔ Português em tempo real, com site em React e sistema de reconhecimento de sinais em Python/Java, além de versão desktop em Electron.
 - 💈 [Barbearia Ryan](https://barbearia-ryan.netlify.app) — Web app de agendamento desenvolvido com React, unindo uma interface sofisticada a praticidade no agendamento de serviços.
 - 🔗 [Âncora](https://ancora-black.vercel.app/) — Plataforma colaborativa desenvolvida em grupo no Instituto PROA. Projeto real em produção com Firebase e Vercel.
-- 📁 [Exercícios HTML e CSS](https://github.com/ryann-08/exercicios-html-css) — Exercícios práticos desenvolvidos durante o curso.
-- 📁 [Lógica de Programação](https://github.com/ryann-08/logica_proa) — Exercícios de lógica desenvolvidos no PROA.
 
 ---
 
