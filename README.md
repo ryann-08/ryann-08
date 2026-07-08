@@ -1,12 +1,13 @@
 <h1 align="center">Olá! Eu sou o Ryan 👋</h1>
 
-<p align="center">Desenvolvedor Full Stack em formação | Instituto PROA</p>
+<p align="center">Desenvolvedor Full Stack | Formado pelo Instituto PROA</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para transformar minha vida. Comecei com lógica de programação no Senac e Python no Senai — essa base me abriu as portas para o Instituto PROA, onde hoje curso Desenvolvimento Full Stack. Gosto de resolver problemas reais e não tenho medo de aprender do zero.
+Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para transformar minha vida. Comecei com lógica de programação no Senac e Python no Senai — essa base me abriu as portas para o Instituto PROA, onde me formei em Desenvolvimento Full Stack. Gosto de resolver problemas reais e não tenho medo de aprender do zero.
+
 
 ---
 
