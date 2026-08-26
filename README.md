@@ -6,8 +6,11 @@
 
 ## 🚀 Sobre mim
 
-Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para transformar minha vida. Comecei com lógica de programação no Senac e Python no Senai — essa base me abriu as portas para o Instituto PROA, onde me formei em Desenvolvimento Full Stack. Gosto de resolver problemas reais e não tenho medo de aprender do zero.
+## 🚀 Sobre mim
 
+Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para transformar minha vida. Comecei com lógica de programação no Senac e Python no Senai — essa base me abriu as portas para o Instituto PROA, onde me formei em Desenvolvimento Full Stack. Hoje sigo evoluindo como estudante de Engenharia de Software na Universidade Anhembi Morumbi.
+
+Gosto de resolver problemas reais e não tenho medo de aprender do zero. Estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento. 💻
 
 ---
 
