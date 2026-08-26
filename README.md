@@ -60,15 +60,6 @@ Web app de agendamento desenvolvido com React, unindo uma interface sofisticada 
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryann-08&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryann-08&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 📫 Como me encontrar
 
 <p>
