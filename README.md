@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:1F6FEB&height=200&section=header&text=Olá!%20Eu%20sou%20o%20Ryan%20👋&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=16&descColor=B0C4DE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:1F6FEB&height=200&section=header&text=Olá!%20Eu%20sou%20o%20Ryan%20&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=16&descColor=B0C4DE" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-almeida-dev/" target="_blank">
