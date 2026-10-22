@@ -29,7 +29,7 @@ Gosto de resolver problemas reais e não tenho medo de aprender do zero. Estou e
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
 
 **Ferramentas**
@@ -46,22 +46,21 @@ Gosto de resolver problemas reais e não tenho medo de aprender do zero. Estou e
     <td width="50%" valign="top">
       <div>
         <h3>🧏 SinalizaAí</h3>
-        <p>Plataforma que promove a comunicação entre pessoas surdas e ouvintes: reconhecemos sinais em Libras e transformamos em áudio/texto, e também o caminho inverso, traduzindo fala ou texto para Libras. Modelei o banco de dados e integrei o back-end e front-end através de uma API em Java (Spring Boot).</p>
+        <p>Plataforma que promove a comunicação entre pessoas surdas e ouvintes: reconhecemos sinais em Libras e transformamos em áudio/texto, e também o caminho inverso. Projeto em grupo, onde fui responsável pela <b>modelagem do banco de dados MySQL</b> e pela <b>camada de acesso a dados em Java (DAO)</b>, e acompanhei a migração do back-end para Spring Boot.</p>
         <p>
-          <img src="https://skillicons.dev/icons?i=react,java,spring,python,mysql" />
+          <img src="https://skillicons.dev/icons?i=java,mysql" />
         </p>
         <a href="https://sinalizaai.com"><img src="https://img.shields.io/badge/Acessar%20projeto-1F6FEB?style=for-the-badge&logoColor=white"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div>
-        <h3>💈 Barbearia Ryan</h3>
-        <p>Web app de agendamento desenvolvido com React, unindo uma interface sofisticada à praticidade no agendamento de serviços.</p>
+        <h3>⚓ Âncora</h3>
+        <p>Plataforma colaborativa desenvolvida em grupo no Instituto PROA. Projeto real em produção, com deploy na Vercel e Firebase.</p>
         <p>
-          <img src="https://skillicons.dev/icons?i=react" />
+          <img src="https://skillicons.dev/icons?i=react,firebase,vercel" />
         </p>
-        <br/>
-        <a href="https://barbearia-ryan.netlify.app"><img src="https://img.shields.io/badge/Acessar%20projeto-1F6FEB?style=for-the-badge&logoColor=white"/></a>
+        <a href="https://ancora-black.vercel.app/"><img src="https://img.shields.io/badge/Acessar%20projeto-1F6FEB?style=for-the-badge&logoColor=white"/></a>
       </div>
     </td>
   </tr>
@@ -71,7 +70,17 @@ Gosto de resolver problemas reais e não tenho medo de aprender do zero. Estou e
 
 ## 📎 Outros projetos
 
-- 🔗 [Âncora](https://ancora-black.vercel.app/) — Plataforma colaborativa desenvolvida em grupo no Instituto PROA. Projeto real em produção com Firebase e Vercel.
+- 💈 [Barbearia Ryan](https://barbearia-ryan.netlify.app) — Web app de agendamento feito sozinho com React, com deploy no Netlify.
+
+---
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryann-08/ryann-08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryann-08/ryann-08/output/github-snake.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/ryann-08/ryann-08/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
