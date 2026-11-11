@@ -14,10 +14,18 @@
 
 ## 🚀 Sobre mim
 
-Tenho 18 anos, vim de escola pública e escolhi a tecnologia como caminho para transformar minha vida. Comecei com lógica de programação no Senac e Python no Senai — essa base me abriu as portas para o Instituto PROA, onde me formei em Desenvolvimento Full Stack. Hoje sigo evoluindo como estudante de Engenharia de Software na Universidade Anhembi Morumbi.
+Sou estudante de Engenharia de Software na Universidade Anhembi Morumbi e desenvolvedor Full Stack formado pelo Instituto PROA. Meu foco é Java e Programação Orientada a Objetos.
 
-Gosto de resolver problemas reais e não tenho medo de aprender do zero. Estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento. 💻
+Não tenho medo de aprender do zero: quando surge algo novo, eu estudo, testo e coloco em prática. Gosto de entender como as coisas funcionam por dentro, e não só de fazer funcionar.
 
+### Alguns projetos que desenvolvi
+- **SinalizaAí:** plataforma em grupo que promove a comunicação entre pessoas surdas e ouvintes, reconhecendo sinais em Libras e transformando em áudio ou texto, e também o caminho inverso. Fui responsável pela modelagem do banco de dados em MySQL.
+- **Âncora:** plataforma colaborativa desenvolvida em grupo no Instituto PROA, feita por alunos para alunos. Projeto real em produção, em React, com deploy na Vercel e Firebase.
+- **Barbearia Ryan:** web app de agendamento desenvolvido individualmente em React, com deploy na Netlify.
+- **Sistema de recomendação de filmes:** projeto em grupo (HTML, CSS e JavaScript) que ajusta as sugestões conforme o perfil e o comportamento do usuário.
+- **Jogo 2D em Java (em desenvolvimento):** projeto em grupo aplicando Programação Orientada a Objetos, com herança, interfaces e padrões de projeto.
+
+Estou em busca da minha primeira oportunidade de estágio em desenvolvimento, para aplicar o que aprendi e crescer junto com o time.
 ---
 
 ## 🛠️ Competências e Tecnologias
